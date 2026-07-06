@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este repositorio contiene la planificación del proyecto "Blog Informativo sobre Salud Mental", desarrollado como parte de la evidencia del programa ADSO del SENA.
+Este repositorio contiene la planificación del proyecto "Blog Informativo sobre Salud Mental", desarrollado como parte de la evidencia.
 
 ## Equipo
 
